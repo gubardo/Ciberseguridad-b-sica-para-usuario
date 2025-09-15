@@ -1,5 +1,6 @@
 # Ciberseguridad-b-sica-para-usuario
 Curso completo - Protege tu vida digital – Ciberseguridad básica para usuario 
+
 Este curso está diseñado para usuarios sin conocimientos técnicos que desean proteger su información personal y sus cuentas en Internet.
 A través de ejemplos claros y consejos prácticos, aprenderás a identificar fraudes digitales y aplicar medidas sencillas que mejorarán tu seguridad en línea.
 
